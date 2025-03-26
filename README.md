@@ -3,7 +3,7 @@
 
 ![ Binary Classification Webpage](https://github.com/JANHVI-18/Binary-Classification-Webpage/blob/main/Binary-Classification-webpage.png)  
 
-🔗 **Live Project:** [Click here to open](https://binary-classification-webpage-6zgoztdy9mrfcyqdyupqqu.streamlit.app/)  
+🔗 **Live Project:** [Click here to open](https://binary-classification-webapp-nn8dvfsjc4yjb2gkros3to.streamlit.app/)  
 
 ## 📌 Overview
 The **Mushroom Classification Predictor** is a machine learning web application that predicts whether a mushroom is poisonous or edible based on various input features. This project utilizes **Python**, **scikit-learn**, **pandas**, and **Streamlit** for the web interface. The application is containerized using **Docker** for portability and easy deployment.
